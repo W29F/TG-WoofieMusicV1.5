@@ -1,5 +1,5 @@
 {
-  "name": "TG-WoofieMusicV1.5",
+  "name": "MailMusic",
   "description": "Telegram bot + userbot for streaming audio in group calls.",
   "keywords": ["telegram", "python"],
   "repository": "https://github.com/W29F/TG-WoofieMusicV1.5",
