@@ -32,7 +32,7 @@
 
 ### Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/W29F/TG-WoofieMusicV1.5)
+[Click here](https://heroku.com/deploy?template=https://github.com/W29F/WoofieMusic)
 
 ## Commands
 
