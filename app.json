@@ -1,8 +1,8 @@
 {
-  "name": "Calls Music",
+  "name": "TG-WoofieMusicV1.5",
   "description": "Telegram bot + userbot for streaming audio in group calls.",
   "keywords": ["telegram", "python"],
-  "repository": "https://github.com/callsmusic/callsmusic",
+  "repository": "https://github.com/W29F/TG-WoofieMusicV1.5",
   "env": {
     "SESSION_NAME": {
       "description": "A Pyrogram session string.",
